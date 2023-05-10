@@ -38,3 +38,4 @@ public class P11720_숫자의합 {
         System.out.println(sum);
     }
 }
+
