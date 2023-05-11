@@ -43,7 +43,6 @@ public class D230510_P1546_평균구하기 {
         /*
         변환 점수의 평균을 구하는 식(점수가 A, B, C 인 경우)
         (A / M *100 + B / M * 100 + C / M * 100) / 3
-        -> (A * 100)(A + B + C) / 3
         -> (A + B + C) * 100 / M / 3
          */
         System.out.println(sum * 100.0 / max / N);
