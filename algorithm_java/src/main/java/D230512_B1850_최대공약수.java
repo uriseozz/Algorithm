@@ -21,7 +21,7 @@
 
 import java.util.*;
 
-public class D230512_P1850_최대공약수 {
+public class D230512_B1850_최대공약수 {
     public static void main(String[] arg) {
 
         Scanner sc = new Scanner(System.in);

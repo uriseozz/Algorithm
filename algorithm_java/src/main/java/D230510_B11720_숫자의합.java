@@ -39,7 +39,7 @@
 import java.util.*;
 
 // 백준 11720 숫자의 합 구하기
-public class D230510_P11720_숫자의합 {
+public class D230510_B11720_숫자의합 {
     public static void main(String[] args) {
 
         // num1 -> 숫자의 길이, num2 -> 숫자, 자리수별 숫자 더하기 / num1 = 5, num2 = 12345, 값 15

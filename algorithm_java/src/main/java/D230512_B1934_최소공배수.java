@@ -25,7 +25,7 @@
 
 import java.util.*;
 
-public class D230512_P1934_최소공배수 {
+public class D230512_B1934_최소공배수 {
 
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);

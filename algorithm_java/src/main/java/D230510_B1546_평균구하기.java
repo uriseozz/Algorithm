@@ -22,7 +22,7 @@
 import java.util.*;
 
 // 백준 1546 평균구하기
-public class D230510_P1546_평균구하기 {
+public class D230510_B1546_평균구하기 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

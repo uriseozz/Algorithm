@@ -22,7 +22,7 @@ ZZZZZ
 
 import java.util.*;
 
-public class D230517_P11005_진법변환2 {
+public class D230517_B11005_진법변환2 {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
 

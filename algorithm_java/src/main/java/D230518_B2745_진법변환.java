@@ -23,7 +23,7 @@ ZZZZZ 36
 
 import java.util.*;
 
-public class D230518_P2745_진법변환 {
+public class D230518_B2745_진법변환 {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
 

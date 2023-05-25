@@ -21,7 +21,7 @@
 
 import java.util.*;
 
-public class D230511_P2609_최대공약수와최소공배수 {
+public class D230511_B2609_최대공약수와최소공배수 {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
         int num1 = sc.nextInt();

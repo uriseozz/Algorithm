@@ -17,7 +17,7 @@
 
 import java.util.*;
 
-public class D230511_P10430_나머지 {
+public class D230511_B10430_나머지 {
     public static void main(String[] arg) {
 
         Scanner sc = new Scanner(System.in);

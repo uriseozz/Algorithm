@@ -22,7 +22,7 @@ lineJudge
 
 import java.util.*;
 
-public class D230518_P11721_열개씩끊어출력하기 {
+public class D230518_B11721_열개씩끊어출력하기 {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
 

@@ -24,7 +24,7 @@
 
 import java.util.*;
 
-public class D230517_P9613_GCD합 {
+public class D230517_B9613_GCD합 {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
 

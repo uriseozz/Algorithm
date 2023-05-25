@@ -20,7 +20,7 @@
 
 import java.util.*;
 
-public class D230524_P1373_2진수8진수 {
+public class D230524_B1373_2진수8진수 {
 
     public static void main(String[] arg) {
         Scanner cs = new Scanner(System.in);
