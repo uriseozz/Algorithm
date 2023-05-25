@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df9b3487-e3d8-4344-bb70-5b0a6544ab8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/D230525_P120811_중앙값구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D230525_P120812_최빈값구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230510_P11720_숫자의합.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230510_P1546_평균구하기.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230511_P10430_나머지.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230511_P2609_최대공약수와최소공배수.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230512_P1850_최대공약수.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230512_P1934_최소공배수.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230517_P11005_진법변환2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230517_P9613_GCD합.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230518_P11721_열개씩끊어출력하기.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230518_P2745_진법변환.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230524_P1212_8진수2진수.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/D230524_P1373_2진수8진수.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230510_P11720_숫자의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230510_B11720_숫자의합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230510_P1546_평균구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230510_B1546_평균구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230511_P10430_나머지.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230511_B10430_나머지.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230511_P2609_최대공약수와최소공배수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230511_B2609_최대공약수와최소공배수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230512_P1850_최대공약수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230512_B1850_최대공약수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230512_P1934_최소공배수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230512_B1934_최소공배수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230517_P11005_진법변환2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230517_B11005_진법변환2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230517_P9613_GCD합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230517_B9613_GCD합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230518_P11721_열개씩끊어출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230518_B11721_열개씩끊어출력하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230518_P2745_진법변환.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230518_B2745_진법변환.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230524_P1212_8진수2진수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230524_B1212_8진수2진수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/D230524_P1373_2진수8진수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/D230524_B1373_2진수8진수.java" afterDir="false" />
-    </list>
+    <list default="true" id="df9b3487-e3d8-4344-bb70-5b0a6544ab8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +145,7 @@
       <workItem from="1684649434464" duration="856000" />
       <workItem from="1684650313284" duration="5726000" />
       <workItem from="1684816550662" duration="10342000" />
-      <workItem from="1684926294103" duration="16522000" />
+      <workItem from="1684926294103" duration="16930000" />
     </task>
     <servers />
   </component>
