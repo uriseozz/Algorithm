@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df9b3487-e3d8-4344-bb70-5b0a6544ab8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../algorithm_python/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm_python/D230530_P120813_짝수는싫어요.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algorithm_python/.idea/algorithm_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm_python/.idea/algorithm_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algorithm_python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm_python/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df9b3487-e3d8-4344-bb70-5b0a6544ab8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +138,7 @@
       <workItem from="1684649434464" duration="856000" />
       <workItem from="1684650313284" duration="5726000" />
       <workItem from="1684816550662" duration="10342000" />
-      <workItem from="1684926294103" duration="24894000" />
+      <workItem from="1684926294103" duration="24908000" />
     </task>
     <servers />
   </component>
